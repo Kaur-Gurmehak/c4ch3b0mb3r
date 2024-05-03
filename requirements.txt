@@ -1,3 +1,10 @@
 Flask
 Flask-Caching
 requests
+concurrent.futures
+argparse
+time
+sys
+random
+string
+colorama
