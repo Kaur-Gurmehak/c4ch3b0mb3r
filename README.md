@@ -90,6 +90,34 @@ c4ch3b0mb3r/
 ├── README.md
 |__ app.py
 ```
+
+##POC
+
+Usage of the tool, 
+
+![Screenshot 2024-05-03 220245](https://github.com/Kaur-Gurmehak/c4ch3b0mb3r/assets/91598188/aab8c719-50cf-43c7-b83c-8e619f754bc8)
+
+Accessing the vulnerable server on browser,
+
+![Screenshot 2024-05-03 211723](https://github.com/Kaur-Gurmehak/c4ch3b0mb3r/assets/91598188/7da4d9c1-df9d-436f-9b07-ef1c744a7be0)
+
+Default command,
+
+![Screenshot 2024-05-03 211831](https://github.com/Kaur-Gurmehak/c4ch3b0mb3r/assets/91598188/67a5d68e-df0b-4b36-9a96-634c289a5abc)
+
+After refreshing the browser,
+
+![Screenshot 2024-05-03 211859](https://github.com/Kaur-Gurmehak/c4ch3b0mb3r/assets/91598188/52e22469-210d-475f-90cc-cf6d5a614f24)
+
+Some other payload examples,
+
+![Screenshot 2024-05-03 213604](https://github.com/Kaur-Gurmehak/c4ch3b0mb3r/assets/91598188/a4efb34c-14f8-4ce9-b093-f59fa88ee8f7)
+![Screenshot 2024-05-03 211629](https://github.com/Kaur-Gurmehak/c4ch3b0mb3r/assets/91598188/f985e39a-c9fe-469a-8b09-284ab091de1e)
+![Screenshot 2024-05-03 213508](https://github.com/Kaur-Gurmehak/c4ch3b0mb3r/assets/91598188/bd80387b-7ab0-43a6-b0d6-f16b7212b314)
+-6b6bd91e1b70)
+
+
+
 ## References
 
 1. https://cpdos.org/
