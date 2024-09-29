@@ -27,7 +27,7 @@ The tool is designed to be easy to use and customizable, with options for settin
 
 Some Important Points:
 
-* The tool uses a hit & trial approach, so please try a few times as it may give false positives or false negatives.
+* The tool uses a hit & trial approach, so please try a few times as it may give false negatives.
 * If a payload doesn't works, try refreshing the page and trying the tool again.
 * As it is difficult to pentest the vulnerability on real-time websites or content-delivery-networks so, for demonstration purposes, a vulnerable web server {app.py} is provided and it simulates how the tool will work.
 * If a 200 OK response is not obtained, visit the URL to see if the response is actually cached. Try refreshing a few times.
